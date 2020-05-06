@@ -1,1 +1,13 @@
 /* This is where my CSS styles are going to go! */
+.jumbotron{
+  background-color: #F5D491;
+}
+.card-body{
+  background-color: #EFE6DD;
+}
+.card-text{
+  font-family: 'Nanum Myeongjo', serif;
+}
+.display-3{
+  font-family: 'Sofia', cursive;
+}
