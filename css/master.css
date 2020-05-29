@@ -11,3 +11,15 @@
 .display-3{
   font-family: 'Sofia', cursive;
 }
+.title{
+  text-align: center;
+  font-family: 'Piedra', cursive;
+}
+.gallery{
+  width:520px;
+  height:500px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
