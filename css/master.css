@@ -23,3 +23,6 @@
   padding-top: 60px;
   padding-bottom: 60px;
 }
+.fit{
+  object-fit: cover;
+}
