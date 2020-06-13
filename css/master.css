@@ -26,3 +26,6 @@
 .fit{
   object-fit: cover;
 }
+.center{
+  align-items: center;
+}
